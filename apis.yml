@@ -23,15 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nova-metrix.png
 name: Nova Metrix
-description: Nova Metrix is a geotechnical, environmental, and materials-testing instrumentation company
-  headquartered in Wakefield, Massachusetts and founded in 2009. It designs and manufactures sensors,
-  instruments, monitoring software, and consumables for structural-health monitoring, construction, civil
-  engineering, energy, and medical markets, operating in more than 90 countries. Nova Metrix is the parent
-  of a family of specialist geotechnical and fiber-optic brands including Roctest, Sensornet, Sherborne
-  Sensors, Soil Instruments, Westbay Instruments, DGSI, Waterloo Hydrogeologic, and Van Essen Instruments.
-  It is backed by Battery Ventures, Commonwealth Capital, and Ascent Venture Partners. As of this
-  enrichment pass Nova Metrix publishes no public developer API, developer portal, or machine-readable
-  API artifacts; this profile carries verified company identity rather than an API surface.
+description: Nova Metrix is a geotechnical, environmental, and materials-testing instrumentation company headquartered
+  in Wakefield, Massachusetts and founded in 2009. It designs and manufactures sensors, instruments, monitoring
+  software, and consumables for structural-health monitoring, construction, civil engineering, energy, and medical
+  markets, operating in more than 90 countries. Nova Metrix is the parent of a family of specialist geotechnical
+  and fiber-optic brands including Roctest, Sensornet, Sherborne Sensors, Soil Instruments, Westbay Instruments,
+  DGSI, Waterloo Hydrogeologic, and Van Essen Instruments. It is backed by Battery Ventures, Commonwealth Capital,
+  and Ascent Venture Partners. As of this enrichment pass Nova Metrix publishes no public developer API, developer
+  portal, or machine-readable API artifacts; this profile carries verified company identity rather than an API surface.
 url: https://raw.githubusercontent.com/api-evangelist/nova-metrix/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -54,6 +53,8 @@ tags:
 common:
 - type: Website
   url: https://www.novavg.com/platforms/nova-metrix/
+- type: Website
+  url: https://www.novavg.com/platforms/nova-instruments/
 apis: []
 maintainers:
 - FN: Kin Lane
